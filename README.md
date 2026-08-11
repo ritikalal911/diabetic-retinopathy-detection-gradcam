@@ -189,7 +189,7 @@ Individual research repository:
 * Explainability techniques
 
 **Individual Research Repository:**
-*Alain's repository*
+**[DR Imbalance XAI Study – Alain Dika](https://github.com/alaindika/dr-imbalance-xai-study)**
 
 ---
 

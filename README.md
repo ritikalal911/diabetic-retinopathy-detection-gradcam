@@ -178,7 +178,7 @@ Individual research repository:
 * Training configuration and experimentation
 
 **Individual Research Repository:**
-*Add Peter's repository link here.*
+*Peter's repository*
 
 ### Alain Dika — Class Imbalance and Explainability
 
@@ -189,7 +189,7 @@ Individual research repository:
 * Explainability techniques
 
 **Individual Research Repository:**
-*Add Alain's repository link here.*
+*Alain's repository*
 
 ---
 

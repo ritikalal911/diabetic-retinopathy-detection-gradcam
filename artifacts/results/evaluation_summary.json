@@ -1,0 +1,17 @@
+{
+  "test_qwk": 0.8741,
+  "test_qwk_ci95": [
+    0.8361,
+    0.9094
+  ],
+  "val_qwk_at_selection": 0.8579,
+  "test_macro_f1": 0.6487,
+  "test_balanced_accuracy": 0.6565,
+  "test_accuracy": 0.8036,
+  "minority_mean_recall": 0.5361,
+  "lowest_recall_grade": "Severe",
+  "lowest_recall_value": 0.3793,
+  "adjacent_error_share": 0.787,
+  "distant_error_share": 0.213,
+  "mean_absolute_grade_error": 0.2564
+}

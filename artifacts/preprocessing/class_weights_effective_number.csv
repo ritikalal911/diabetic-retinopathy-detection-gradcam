@@ -1,0 +1,6 @@
+diagnosis,class_name,train_count,class_weight
+0,No DR,1263,0.3315
+1,Mild,259,1.0419
+2,Moderate,699,0.4727
+3,Severe,135,1.8824
+4,Proliferative,207,1.2714

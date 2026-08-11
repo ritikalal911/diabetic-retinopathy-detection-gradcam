@@ -1,0 +1,19 @@
+# Raw APTOS dataset
+aptos2019/images/
+
+# Generated preprocessed images
+data/preprocessed_384/
+
+# Large trained model
+artifacts/checkpoints/*.pt
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

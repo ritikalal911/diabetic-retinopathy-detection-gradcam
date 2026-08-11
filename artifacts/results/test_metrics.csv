@@ -1,0 +1,10 @@
+metric,value,ci_low,ci_high
+accuracy,0.8036,0.7709,0.8364
+balanced_accuracy,0.6565,,
+macro_f1,0.6487,0.593,0.6984
+weighted_f1,0.8054,,
+macro_precision,0.6465,,
+macro_recall,0.6565,,
+qwk,0.8741,0.8361,0.9094
+minority_mean_recall,0.5361,,
+macro_roc_auc_ovr,0.903,,

@@ -168,18 +168,6 @@ Individual research repository:
 
 **[Explainable DR Severity Grading – Ritika Lal](https://github.com/ritikalal911/explainable-dr-severity-grading)**
 
-### Alain Dika — Class Imbalance and Explainability
-
-**Research areas:**
-
-* Analysis of class imbalance
-* Strategies for handling underrepresented DR severity classes
-* Explainability techniques
-* Grad-CAM investigation and interpretation
-
-**Individual Research Repository:**
-*Add Alain's repository link here.*
-
 ### Peter Bello — Model Training
 
 **Research areas:**
@@ -191,6 +179,17 @@ Individual research repository:
 
 **Individual Research Repository:**
 *Add Peter's repository link here.*
+
+### Alain Dika — Class Imbalance and Explainability
+
+**Research areas:**
+
+* Analysis of class imbalance
+* Strategies for handling underrepresented DR severity classes
+* Explainability techniques
+
+**Individual Research Repository:**
+*Add Alain's repository link here.*
 
 ---
 
@@ -343,8 +342,8 @@ Visual outputs include:
 | Team Member     | Primary Research Area            |
 | --------------- | -------------------------------- |
 | **Ritika Lal**  | EDA & Image Preprocessing        |
-| **Alain Dika**  | Class Imbalance & Explainability |
 | **Peter Bello** | Model Training                   |
+| **Alain Dika**  | Class Imbalance & Explainability |
 
 All team members contributed to the integration and development of the final project pipeline.
 

@@ -178,7 +178,7 @@ Individual research repository:
 * Training configuration and experimentation
 
 **Individual Research Repository:**
-*Peter's repository*
+**[CV Explainable Diabetic Retinopathy Severity Grading – Peter Bello](https://github.com/cloudbadger44/CV_Explainable-Diabetic-Retinopathy-Severity-Grading)**
 
 ### Alain Dika — Class Imbalance and Explainability
 
